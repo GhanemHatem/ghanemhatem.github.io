@@ -1,2 +1,0 @@
-# SACQRCode
-SACQRCode
