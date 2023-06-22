@@ -4,7 +4,7 @@
 	"name": "QR code",
 	"description": "A QR code demo",
 	"newInstancePrefix": "QR",
-	"icon": "https://ghanemhatem.github.io/icon.png",
+	"icon": "https://ghanemhatem.github.io/QRCode/icon.png",
 	"vendor": "Satoshi Nakamoto",
 	"eula": "EULA",
 	"license": "2.0",
@@ -12,14 +12,14 @@
 		{
 			"kind": "main",
 			"tag": "com-fd-qr",
-			"url": "https://ghanemhatem.github.io/box.js",
+			"url": "https://ghanemhatem.github.io/QRCode/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-fd-qr-bps",
-			"url": "https://ghanemhatem.github.io/box_bps.js",
+			"url": "https://ghanemhatem.github.io/QRCode/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
